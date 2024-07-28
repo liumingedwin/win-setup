@@ -1,0 +1,7 @@
+*.exe
+*.wim
+*.dll
+*.a
+*.txt
+*.o
+nwjs-*
